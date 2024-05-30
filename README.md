@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Semah Abdelmajid Kouki, a passionate computer science enthusiast currently pursuing a degree in computer engineering. I have a strong foundation in information technology with a Bachelor's degree in Information Systems Development. My primary focus is on full-stack web development, where I enjoy creating dynamic and responsive applications using Django for the backend and React for the frontend.</h1>
+<h3 align="center">Hi there! I'm Semah Abdelmajid Kouki, a passionate computer science enthusiast currently pursuing a degree in computer engineering. I have a strong foundation in information technology with a Bachelor's degree in Information Systems Development. My primary focus is on full-stack web development, where I enjoy creating dynamic and responsive applications using Django for the backend and React for the frontend.</h3>
 
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
