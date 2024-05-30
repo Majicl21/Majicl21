@@ -12,4 +12,5 @@ I'm Semah Abdelmajid Kouki, a passionate computer science enthusiast currently p
 
 [![majicl21's GitHub stats](https://github-readme-stats.vercel.app/api?username=majicl21)](https://github.com/majicl21/github-readme-stats)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+[![majicl21's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=majicl21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/majicl21/github-readme-stats#gh-dark-mode-only)
+[![majicl21's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=majicl21&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/majicl21/github-readme-stats#gh-light-mode-only)
