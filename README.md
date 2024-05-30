@@ -7,10 +7,7 @@ I'm Semah Abdelmajid Kouki, a passionate computer science enthusiast currently p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-
 </p>
-
-[![majicl21's GitHub stats](https://github-readme-stats.vercel.app/api?username=majicl21)](https://github.com/majicl21/github-readme-stats)
 
 [![majicl21's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=majicl21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/majicl21/github-readme-stats#gh-dark-mode-only)
 [![majicl21's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=majicl21&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/majicl21/github-readme-stats#gh-light-mode-only)
