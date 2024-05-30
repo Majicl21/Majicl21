@@ -10,5 +10,5 @@ I'm Semah Abdelmajid Kouki, a passionate computer science enthusiast currently p
 
 </p>
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![majicl21's GitHub stats](https://github-readme-stats.vercel.app/api?username=majicl21)](https://github.com/majicl21/github-readme-stats)
 
